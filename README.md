@@ -2,6 +2,16 @@
 
 A comprehensive YouTube content filtering system for children with parental controls. Built with React, Node.js, PostgreSQL, and Redis.
 
+# KidsTube Filter 🎬
+
+[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/kidstube-filter?style=social)](https://github.com/YOUR_USERNAME/kidstube-filter/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/kidstube-filter?style=social)](https://github.com/YOUR_USERNAME/kidstube-filter/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen.svg)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D20.0.0-green.svg)
 ![React](https://img.shields.io/badge/react-18.2.0-blue.svg)
